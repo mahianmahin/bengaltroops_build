@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b32eba0.css",
+    "main.js": "/static/js/main.3389782b.js",
+    "static/media/contact_image.svg": "/static/media/contact_image.47ea83d8d83218565804.svg",
+    "static/media/special_service.png": "/static/media/special_service.7b89806d697e216fc929.png",
+    "static/media/special_security.png": "/static/media/special_security.ccaf82a5fcec0ab07e7e.png",
+    "static/media/logo_tiger.svg": "/static/media/logo_tiger.4d6c6ce3f0f36790401d20a4193a8550.svg",
+    "static/media/Logo.svg": "/static/media/Logo.7ac52786a6f377d9da6ce9be046d6f2b.svg",
+    "static/media/special_service_text.svg": "/static/media/special_service_text.e83c68883c02bde3e1f22ec526f350da.svg",
+    "static/media/service_lock.svg": "/static/media/service_lock.a946e3d6f6f7bc4f7507e453efe28138.svg",
+    "static/media/services_text.svg": "/static/media/services_text.e45075f23f08c71394e35e85f83d58ad.svg",
+    "static/media/what_we_do_image_updated.svg": "/static/media/what_we_do_image_updated.090407bfec5644cba17f0a55395b316d.svg",
+    "static/media/who_we_are.svg": "/static/media/who_we_are.34b2bf2209828c0ed7de481966d686ff.svg",
+    "static/media/mission_text.svg": "/static/media/mission_text.b36723519ec02f453108eecfecb96731.svg",
+    "static/media/why_text.svg": "/static/media/why_text.149cef8ed87fa8347a42b328276b3b01.svg",
+    "static/media/phone.svg": "/static/media/phone.d2e475c0ed830c5de3fce7f0543f85b1.svg",
+    "static/media/instagram.svg": "/static/media/instagram.4bfc1e725f388320aad0431505123707.svg",
+    "static/media/mail.svg": "/static/media/mail.d15f114f921485ed793a2e373b9f874e.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/location.svg": "/static/media/location.3ac72550637bade539c7ef60e6cf6e01.svg",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/twitter.svg": "/static/media/twitter.020fb5bd03272ba488212f1fc22fec6f.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.b1a45f1ee0f3eb896a61f0c4173ad0aa.svg",
+    "static/media/bullet.svg": "/static/media/bullet.5b25634083fc628256535a8c5a0ab645.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4fc2e8b55efe458a12b2c8facae63736.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.8b9ec4e8449d17e2c21fddc5f4832ec2.svg",
+    "main.9b32eba0.css.map": "/static/css/main.9b32eba0.css.map",
+    "main.3389782b.js.map": "/static/js/main.3389782b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b32eba0.css",
+    "static/js/main.3389782b.js"
+  ]
+}
